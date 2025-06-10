@@ -34,11 +34,11 @@ The **BMI Calculator** is a mobile application developed using **Android Studio*
 ## 🛠 Setup & Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/eleazartuazon/BMI-Calculator-Android-Studio.git
+   git clone https://github.com/logan-void/Android-Studio-BMI-Calculator
    ```
 2. Open the project in **Android Studio**.
 3. Build and run the app on an **Android Emulator** or a **physical device**.
 
 ## 📬 Contact
-📧 Email: eleazartuazon1d@gmail.com        
-🔗 LinkedIn: https://www.linkedin.com/in/eleazartuazon/
+📧 Email: superfreelancer303@gmail.com        
+🔗 LinkedIn: https://www.linkedin.com/in/logan-void/
